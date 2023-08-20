@@ -4,7 +4,7 @@ Im Muskat sind 309.901 Musikwerke von 18758 Komponisten, literarische Texte zu V
 
 ## Installation
 
-Erstellen Sie das Verzeichnis C:\A-ich und speichern Sie die vier accdb-Dateien (siehe Releases) dort ab.
+Erstellen Sie das Verzeichnis C:\A-ich und speichern Sie die vier accdb-Dateien dort ab. Die accdb-Dateien finden Sie auf dieser Seite unter Releases.
 
 Falls Sie Windows 2010 oder neuer nutzen, müssen Sie noch einen Schritt durchführen. Muskat nutzt nämlich die Windows-Datei OFFOWC.dll (Version 1.2), die nicht mehr mitgeliefert wird. Sie müssen die Datei daher downloaden (z.B. hier: https://www.dll-files.com/offowc.dll.html) und ins Verzeichnis C:\Windows\System32 zu  bewegen.
 
